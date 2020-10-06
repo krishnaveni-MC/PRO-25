@@ -1,2 +1,1 @@
-# PRO-25
-github
+# CP-2
